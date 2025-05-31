@@ -6,7 +6,7 @@ titanic-eda/
 │   └── train.csv                # Raw Titanic dataset
 │
 ├── notebooks/
-│   └── titanic_eda.ipynb       # vscode notebook for EDA
+│   └── titanic_eda.ipynb       # vscode terminal for EDA
 │
 ├── images/
 │   └── *.png                   # Saved graphs and visualizations
