@@ -1,4 +1,4 @@
-📁 Project Structure
+📁 ProjectStructure
 
 titanic-eda/
 │
